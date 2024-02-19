@@ -1,0 +1,4 @@
+build
+resources/scores
+resources/saves/*
+!resources/saves/.gitkeep

@@ -28,8 +28,9 @@ class ShooterMenu: public menu::Menu {
 		// Buttons
 		inline static const std::vector<std::string> _BUTTONS = {
 			"USERNAME: ",
-			"START", "SAVE (quit without game over)",
-			"SAVE SCORE (quit with game over)",
+			"START",
+			"SAVE (Press it game is still ongoing)",
+			"SAVE SCORE (Press it after game over)",
 			"CLEAR SCORES",
 			"CLEAR SAVES",
 			"QUIT"

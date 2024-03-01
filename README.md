@@ -2,6 +2,9 @@
 
 Simple game with player, bullets and enemies.
 
+![Menu](./screenshots/menu.png)
+![Play](./screenshots/play.png)
+
 <h1 align="center">Installation</h1>
 
 **1.** Clone this repository how you like it.
